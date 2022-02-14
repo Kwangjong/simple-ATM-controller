@@ -26,6 +26,6 @@ ATM controller
 
 + resetAccount(self) : reset account stored in ATM's local scope. must be called when exiting.
 
-# HOW-TO
+## HOW-TO
 - clone the repository or download atm.py file.
 - run atm.py in Python 2, and test cases will automatically run.
